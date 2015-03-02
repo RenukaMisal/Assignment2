@@ -1,0 +1,60 @@
+{
+"students": 
+	[
+		{
+			"id": 100,
+			"fName": "Jackie",
+			"lName": "Doe",
+			"score": 453
+		},
+		{
+			"id": 125,
+			"fName": "Jackie",
+			"lName": "Doe",
+			"score": 453
+		},
+		{
+			"id": 127,
+			"fName": "Jony",
+			"lName": "Doe",
+			"score": 450
+
+		},
+		{
+
+			"id": 121,
+			"fName": "Ram",
+			"lName": "Moew",
+			"score": 453
+		},
+		{
+
+			"id": 122,
+			"fName": "Mickey ",
+			"lName": "Mouse",
+			"score": 453
+		},
+		{
+
+			"id": 130,
+			"fName": "Donald",
+			"lName": "Duck",
+			"score": 453
+		},
+		{
+
+			"id": 132,
+			"fName": "Renuka ",
+			"lName": "Mouse",
+			"score": 453
+		},
+		{
+
+			"id": 14,
+			"fName": "Donald",
+			"lName": "Duck",
+			"score": 453
+		}
+		
+	]
+}
